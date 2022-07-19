@@ -37,7 +37,6 @@ https://fw.koolcenter.com/iStoreOS/
 
 ### 固件使用注意
 
-* 注意更新到最新版本，本列表最后面是最新版本，日期越大版本越新！
 * 默认IP http://192.168.100.1
 * 默认密码：password
 * 如果只有一个网口，默认的网口是 LAN；如果大于一个网口，默认 eth0 是 WAN 口，其它都是 LAN。
@@ -51,12 +50,10 @@ https://fw.koolcenter.com/iStoreOS/
 
 ## 请关注我们的：
 
-* [酷友社 B 站账号](https://space.bilibili.com/1492058311?spm_id_from=333.788.0.0)
+* [酷友社 B 站账号](https://space.bilibili.com/1492058311)
 * [酷友社 Youtube](https://www.youtube.com/channel/UCvENMyIFurJi_SrnbnbyiZw)
 * [QQ 群](https://www.koolcenter.com/posts/117)
 * [TG 群](https://t.me/+QwxW7aimSMeRdQJX)
-
-其它离线安装包，请靠自己的能力去寻找。这里不提供任何离线安装包。
 
 ## 自己制作固件
 
@@ -97,6 +94,8 @@ TODO
 ## 第三方离线包
 
 https://x88.ltd/dsj
+
+其它离线安装包，请靠自己的能力去寻找。
 
 ### 第三方离线包制作
 
