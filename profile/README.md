@@ -1,6 +1,6 @@
-# iStoreOS 固件
+# iStoreOS 组织
 
-[易有云团队](https://www.linkease.com)的目标是：提供更简单易用的网络存储方案。为了让用户能够在更多的硬件上享受易有云团队带来的软件福利，我们开发了本系统。
+[iStoreOS](https://www.istoreos.com)的目标是：提供更简单易用的网络存储系统。为了让用户能够在更多的硬件上享受[易有云团队](https://www.linkease.com)带来的软件福利，我们开源了本系统。
 
 ## 介绍
 
