@@ -13,7 +13,9 @@ iStoreOS 是提供给入门级 OpenWRT 爱好者使用的固件，主要是为�
 * Docker 配置向导
 * 远程下载设置向导
 
-iStoreOS 还提供了软件中心：iStore，尽可能解决插件之间的依赖关系，可让大家自由自在安装插件。
+iStoreOS 还提供了软件中心：[iStore](https://github.com/linkease/istore)，尽可能解决插件之间的依赖关系，可让大家自由自在安装插件。
+
+iStoreOS 作为存储系统，提供了 RAID，Docker，以及[易有云](https://app.linkease.com)（内置点对点通信，支持相册备份，多设备文件同步，手机客户端等）
 
 除此之外，为了方便大家折腾不出问题，避免掉坑里，我们还做了很多防坑操作，比如 ARS2 固件里面有：
 
