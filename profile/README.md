@@ -15,7 +15,7 @@ iStoreOS 是提供给入门级 OpenWRT 爱好者使用的固件，主要是为�
 
 iStoreOS 还提供了软件中心：[iStore](https://github.com/linkease/istore)，尽可能解决插件之间的依赖关系，可让大家自由自在安装插件。
 
-iStoreOS 作为存储系统，提供了 RAID，Docker，以及[易有云](https://app.linkease.com)（内置点对点通信，支持相册备份，多设备文件同步，手机客户端等）
+iStoreOS 作为存储系统，提供了 RAID，Docker，以及[易有云](https://app.linkease.com)（内置点对点通信，支持相册备份，多设备文件同步等）
 
 除此之外，为了方便大家折腾不出问题，避免掉坑里，我们还做了很多防坑操作，比如 ARS2 固件里面有：
 
@@ -49,7 +49,7 @@ https://fw.koolcenter.com/iStoreOS/
 
 * [安装](https://doc.linkease.com/zh/guide/istoreos/install_x86.html)
 * [文档](https://doc.linkease.com/zh/guide/istoreos/)
-* [问题反馈](https://github.com/linkease/istoreos/issues)
+* [问题反馈](https://github.com/istoreos/istoreos/issues)
 
 ## 请关注我们的：
 
@@ -62,27 +62,19 @@ https://fw.koolcenter.com/iStoreOS/
 
 ## 自己制作固件
 
-iStoreOS 来源于官方的 OpenWRT Release 分支源码，没有 fork 自己的分支，几乎都是通过 OpenWRT 标准组件形式实现。我们修改或者开发的部分，都以插件形式，具体源代码如下：
+iStoreOS 来源于官方的 OpenWRT Release 分支源码，几乎都是通过 OpenWRT 标准组件形式实现。我们修改或者开发的部分，都以插件形式，具体源代码如下：
 
 * https://github.com/linkease/nas-packages-luci 我们自己开发的插件 UI 代码
 * https://github.com/linkease/nas-packages 我们自己开发插件的程序代码，部分程序并不开源
 * https://github.com/linkease/istore 软件中心核心代码，包含备份插件功能等，全部开源
-* https://github.com/linkease/openwrt-themedog 本来尝试做的桌面主题，目前还有些问题
 * https://github.com/linkease/istore-packages 软件中心的一些非 OpenWRT 官方包
-* https://github.com/linkease/openwrt-app-actions 其他一些软件包
+* https://github.com/linkease/openwrt-app-actions 其他一些软件包（Jellyfin，NasTool，网心云等）
 
 iStoreOS 就是在 OpenWRT 最基础最原始的固件基础上，加上了上面插件的能力来实现。
 
-`更新`：最近发现，用 patch 方式开发太麻烦，等稳定以后，还是计划 fork OpenWRT 代码，并开源到这里。这样也方便更多人参与到本项目。
-
 ### 固件编译的 action 参考
 
-iStoreOS 目标是给入门者提供固件，暂时没提供 action 来给高级用户自己编译固件，如果大家有动手能力，可以参考下面的第三方 action 编译自己的固件：
-
-* https://github.com/xiangfeidexiaohuo/OpenWrt_Build
-* https://github.com/xiangfeidexiaohuo/openwrt-packages
-
-上面为非我们提供的支持，只是提供给大家一个源代码参考。我们不会对任何结果或者过程负责。
+TODO
 
 ### 功能介绍
 
