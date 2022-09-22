@@ -24,8 +24,8 @@ iStoreOS 还提供了软件中心：[iStore](https://github.com/linkease/istore)
 
 ### 入门极客版本预览
 
-![首页](./preview/geek-preview1.jpg)
-![软件中心](./preview/geek-istore-preview2.jpg)
+![首页](https://doc.linkease.com/assets/img/geek-preview1.9987f6a0.jpg)
+![软件中心](https://doc.linkease.com/assets/img/geek-istore-preview2.5e9c0323.jpg)
 
 ## 小白路由版本
 
@@ -40,8 +40,8 @@ iStoreOS 还提供了软件中心：[iStore](https://github.com/linkease/istore)
 
 ### 小白路由版本预览
 
-![网络向导](./preview/router-preview1.jpg)
-![软件中心](./preview/router-istore.jpg)
+![网络向导](https://doc.linkease.com/assets/img/router-preview1.7729ec63.jpg)
+![软件中心](https://doc.linkease.com/assets/img/router-istore.f031ae04.jpg)
 
 ## 轻 NAS 版本
 
@@ -62,8 +62,8 @@ iStoreOS 还提供了软件中心：[iStore](https://github.com/linkease/istore)
 
 ### 轻 NAS 预览
 
-![首页](./preview/nas-preview1.png)
-![应用中心](./preview/nas-istore-preview2.png)
+![首页](https://doc.linkease.com/assets/img/nas-preview1.3d49cb9a.png)
+![应用中心](https://doc.linkease.com/assets/img/nas-istore-preview2.902df65b.png)
 
 ## 支持硬件
 
