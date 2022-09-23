@@ -67,7 +67,7 @@ iStoreOS 还提供了软件中心：[iStore](https://github.com/linkease/istore)
 
 ## 支持硬件
 
-* ARS2(https://item.taobao.com/item.htm?ft=t&id=655381846734) [固件最初支持的硬件，没有这个硬件，就没有这个项目]
+* [ARS2](https://item.taobao.com/item.htm?ft=t&id=655381846734) [固件最初支持的硬件，没有这个硬件，就没有这个项目]
 * X86
 * R2S
 * R4S
