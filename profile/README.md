@@ -2,7 +2,7 @@
 
 iStoreOS 目标是提供一个人人会用的路由兼轻 NAS 系统，保证能运行在 200元-5000元的各种类型的硬件上，实现自己的网络存储自由。
 
-系统本身完全免费，目前系统代码开源在：[Github iStoreOS](https://www.github.com/istoreos/istoreos)
+系统本身开源免费，目前系统代码开源在：[Github iStoreOS](https://www.github.com/istoreos/istoreos)
 
 iStoreOS 来源于 OpenWRT，重点是做了很多很多的交互简化。但是即使再简化，对于不同的用户级别，我们还是得提供了三套完全不一样的交互 UI：
 
@@ -126,7 +126,7 @@ opkg install *.ipk
 
 把 ipk 跟 install.sh 结合在一起，本质会生成一个包含所有 ipk 跟 install.sh 的自解压自运行的程序。
 
-## 更多精彩
+## 关注更新
 
 更多iStoreOS 功能，请关注我们的账号：
 
@@ -134,6 +134,8 @@ opkg install *.ipk
 * [酷友社 Youtube](https://www.youtube.com/channel/UCvENMyIFurJi_SrnbnbyiZw)
 * [QQ 群](https://www.koolcenter.com/posts/117)
 * [TG 群](https://t.me/+QwxW7aimSMeRdQJX)
+* 微信扫码关注公众号：
+![istoreos-gongzhong](https://doc.linkease.com/assets/img/istoreos-gongzhong.7b082729.png)
 
 ## 问题反馈
 
